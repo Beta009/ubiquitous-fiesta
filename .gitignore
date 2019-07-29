@@ -52,3 +52,6 @@ autom4te.cache
 }
 }pBeta00n-patch-3}
 <Masters>$src_patch_3
+{
+   Secrets.json file
+}
